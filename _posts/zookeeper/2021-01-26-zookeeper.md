@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ZookKeeper: A Distributed Coordination Service for Distributed Applications
+title: ZookKeeper Overview
 date: 2021-01-26 01:26:23 +0900
 category: Zookeeper
 ---
